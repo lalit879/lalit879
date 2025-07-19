@@ -21,7 +21,7 @@ I'm a passionate developer currently pursuing my B.Tech in Information Technolog
 `VS Code` `Figma` `Postman` `Git & GitHub`
 
 **Database & Auth:**  
-`Firebase`
+`Firebase` `MongoDb
 
 ---
 
