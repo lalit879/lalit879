@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lalit Kumar
 
-🎯 Full-Stack Developer | MERN Stack | Android Enthusiast
+🎯 Full-Stack Developer | MERN Stack 
 
 I'm a passionate developer currently pursuing my B.Tech in Information Technology at **JSS Academy of Technical Education (2022–2026)**. I enjoy building responsive, user-focused web and mobile applications using modern technologies. I'm always keen to learn, iterate, and improve my work based on real user needs.
 
