@@ -9,7 +9,7 @@ I'm a passionate developer currently pursuing my B.Tech in Information Technolog
 ## 🚀 Tech Stack
 
 **Languages:**  
-`JavaScript` `HTML` `CSS` `C` `C++` `Kotlin`
+`JavaScript` `HTML` `CSS` `C` `Python` `Kotlin`
 
 **Frontend:**  
 `React.js` `Tailwind CSS`
@@ -26,6 +26,12 @@ I'm a passionate developer currently pursuing my B.Tech in Information Technolog
 ---
 
 ## 📱 Projects
+
+### 🔹 [Vishwa Bharati School Website](#)
+- Developed a fully responsive school website with React and Tailwind CSS , improving the user experience for parents and students
+- Implemented client-side routing with React Router DOM , enhancing site usability by 45% .
+- Built a modular frontend with reusable components, increasing development efficiency by 30% .
+- Created a dynamic, auto-playing image carousel that increased user time-on-page by 25% .
 
 ### 🔹 [To Do Application](#)
 - Built using React with state management using Hooks.
