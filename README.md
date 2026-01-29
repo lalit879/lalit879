@@ -88,8 +88,8 @@ Class 12 (CBSE) – **75%**
 📍 Noida, Uttar Pradesh  
 📧 Email: [lk540431@gmail.com](mailto:lk540431@gmail.com)  
 📞 Phone: +91-7054620588  
-🔗 LinkedIn: https://linkedin.com/in/your-profile  
-💻 GitHub: https://github.com/your-username  
+🔗 LinkedIn: https://www.linkedin.com/in/lalit-54af/  
+💻 GitHub: https://github.com/lalit879 
 
 ---
 
