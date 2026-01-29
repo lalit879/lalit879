@@ -1,67 +1,96 @@
-# 👋 Hi, I'm Lalit Kumar
+# 👋 Hi, I'm Lalit Kumar  
 
-🎯 Full-Stack Developer | MERN Stack 
+🎯 **Aspiring Data Scientist | AI & Machine Learning Enthusiast**  
 
-I'm a passionate developer currently pursuing my B.Tech in Information Technology at **JSS Academy of Technical Education (2022–2026)**. I enjoy building responsive, user-focused web and mobile applications using modern technologies. I'm always keen to learn, iterate, and improve my work based on real user needs.
+I’m a B.Tech Information Technology student at **JSS Academy of Technical Education, Noida (2022–2026)** with a strong foundation in **Python, Machine Learning, NLP, and Deep Learning**.  
+I enjoy building **end-to-end ML solutions**—from data preprocessing and model training to API deployment and performance monitoring.
 
----
-
-## 🚀 Tech Stack
-
-**Languages:**  
-`JavaScript` `HTML` `CSS` `C` `Python` `Kotlin`
-
-**Frontend:**  
-`React.js` `Tailwind CSS`
-
-**Backend:**  
-`Next.js` `Node.js` `Express.js`
-
-**Tools:**  
-`VS Code` `Figma` `Postman` `Git & GitHub`
-
-**Database & Auth:**  
-`Firebase` `MongoDb`
+I’m particularly interested in **interview intelligence, behavioral analytics, fraud detection, and predictive systems**, where data meets real-world impact.
 
 ---
 
-## 📱 Projects
+## 🧠 Core Skills
 
-### 🔹 [Vishwa Bharati School Website](#)
-- Developed a fully responsive school website with React and Tailwind CSS , improving the user experience for parents and students
-- Implemented client-side routing with React Router DOM , enhancing site usability by 45% .
-- Built a modular frontend with reusable components, increasing development efficiency by 30% .
-- Created a dynamic, auto-playing image carousel that increased user time-on-page by 25% .
+### 🔹 Programming & ML
+- Python, JavaScript  
+- NumPy, Pandas  
+- Scikit-learn  
+- TensorFlow, PyTorch  
 
-### 🔹 [To Do Application](#)
-- Built using React with state management using Hooks.
-- Modular component structure for reusability and scalability.
-- Real-time task updates and an enhanced user interface.
+### 🔹 Natural Language Processing
+- Text Preprocessing  
+- Sentiment Analysis  
+- Named Entity Recognition (NER)  
+- Speech-to-Text (ASR)  
+- Transformers  
 
-### 🔹 [Text Utils](#)
-- A web tool for quick text transformation (uppercase/lowercase).
-- Word count and reading time estimation.
-- Responsive design for a seamless experience across devices.
+### 🔹 Backend & APIs
+- FastAPI  
+- Flask  
+- REST APIs  
 
-### 🔹 [Kissan Kart](#)
-- Android e-commerce app for farmers, developed in Kotlin with Firebase.
-- Admin and user panels for effective product and order management.
-- Real-time data sync and secure authentication.
+### 🔹 Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
 
----
-
-## 🏆 Certifications
-
-- Presented at **ICGEST 2023**, NIT Kurukshetra
-
----
-
-## 📫 Let's Connect
-
-📍 Sector 62, Noida, Uttar Pradesh  
-📧 [lk540431@gmail.com](mailto:lk540431@gmail.com)  
-📞 +91-7054620588  
+### 🔹 Software Engineering
+- Git & GitHub  
+- CI/CD Pipelines  
+- Agile & SDLC  
+- Model Deployment & Monitoring  
 
 ---
 
-💡 *“My goal is to consistently develop user-centric applications that follow the latest industry trends and best practices.”*
+## 🚀 Projects
+
+### 🔹 AI-Powered Interview Assistant (2025)
+**Tech Stack:** Python, NLP, TensorFlow, FastAPI  
+
+- Designed NLP pipelines for voice-to-text transcription, sentiment analysis, and entity recognition  
+- Trained deep learning models for candidate scoring and recommendations, improving accuracy by **20%**  
+- Deployed ML models using **FastAPI** with real-time inference support  
+- Integrated monitoring hooks for performance tracking  
+
+---
+
+### 🔹 Fraud Detection System (2025)
+**Tech Stack:** Python, Machine Learning, Scikit-learn, Flask  
+
+- Built an anomaly detection model on **100k+ financial transactions**  
+- Achieved **92% accuracy** in fraud classification  
+- Implemented data preprocessing and feature engineering pipelines  
+- Exposed trained model as a **REST API** for system integration  
+
+---
+
+## 🏆 Awards & Certifications
+
+- 📄 **Research Paper:**  
+  *“SISWMS: Scientific Integrated Solid Waste Management System”*  
+  **ICGEST 2023 – NIT Kurukshetra**
+
+---
+
+## 🎓 Education
+
+**JSS Academy of Technical Education, Noida**  
+B.Tech – Information Technology (2022–2026)  
+📊 CGPA: **6.6**
+
+**Little Flower House, Varanasi**  
+Class 12 (CBSE) – **75%**
+
+---
+
+## 📫 Let’s Connect
+
+📍 Noida, Uttar Pradesh  
+📧 Email: [lk540431@gmail.com](mailto:lk540431@gmail.com)  
+📞 Phone: +91-7054620588  
+🔗 LinkedIn: https://linkedin.com/in/your-profile  
+💻 GitHub: https://github.com/your-username  
+
+---
+
+💡 *“I aim to build intelligent, scalable systems that turn data into meaningful insights and real-world solutions.”*
